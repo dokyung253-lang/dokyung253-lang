@@ -35,9 +35,3 @@
 - **[MiniProject3](https://github.com/dokyung253-lang/MiniProject3)** : 최근 진행 중인 프로젝트
 - **[marketplace](https://github.com/dokyung253-lang/marketplace)** : 상품 등록 및 관리 시스템
 - **[happyjava](https://github.com/dokyung253-lang/happyjava)** : Java 학습 기록 및 예제 코드
-
-### ✅ 추가 가이드
-1.  **Pinned Repositories 설정:** 마크다운에 적어두는 것 외에도, 깃허브 메인 페이지 상단의 **`Customize your pins`** 버튼을 눌러 실제 프로젝트들을 선택해 두어야 시각적으로 가장 예쁘게 나옵니다.
-2.  **Stats 제거 완료:** 요청하신 대로 복잡한 그래프 링크는 모두 삭제하여 텍스트 가독성을 높였습니다.
-
-작업하시다가 더 필요한 기능이나 디자인 수정 사항이 생기면 언제든 말씀해 주세요! 🍉
