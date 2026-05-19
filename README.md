@@ -1,54 +1,43 @@
-# <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20happii!%20🍉&fontSize=70" width="100%">
+# Hi there, I'm happii! 🍉
 
-### 👨‍💻 Full-Stack Developer & Aspiring Coding Teacher
-> "복잡한 코드를 누구나 이해할 수 있는 쉬운 언어로 풀어내는 개발자입니다."
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-</p>
+### 👨‍💻 Full-Stack Developer & Coding Guide
+비전공자에서 시작해 더 간결한 코드와 친절한 설명을 지향하는 개발자입니다.  
+현재 웹/앱 풀스택 개발 역량을 쌓으며 복잡한 로직을 쉽게 풀어내는 법을 고민하고 있습니다.
 
 ---
 
-### 🏆 GitHub Trophies
-[![](.github/assets/trophy.png)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dokyung253-lang&theme=radical&no-frame=true&column=7" />
-</p>
+### 📚 My Archives
+- 📝 **[Personal Learning Notes & Portfolio (Notion)](https://www.notion.so/2d382755899880a086b2ea4bf679621d?v=2d3827558998819f85c1000cc2c4e553)** : 학습 기록과 상세 포트폴리오를 확인하실 수 있습니다.
 
 ---
 
-### 📊 Professional Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dokyung253-lang&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokyung253-lang&layout=compact&theme=radical" width="41%">
-</p>
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dokyung253-lang&theme=radical" width="90%">
-</p>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[MiniProject3](https://github.com/dokyung253-lang/MiniProject3)** | 사용자 중심의 웹 서비스 구현 | React, Axios |
-| **[MarketPlace](https://github.com/dokyung253-lang/marketplace)** | 안정적인 백엔드 API 설계 | Spring Boot, Java |
-| **[HappyJava](https://github.com/dokyung253-lang/happyjava)** | Java 핵심 개념 및 로직 정리 | Java |
+**Tools**
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-</p>
+### 📌 Pinned Repositories
+*저의 주요 프로젝트들은 아래 고정된 저장소에서 확인하실 수 있습니다.*
 
-<br>
+- **[MiniProject3](https://github.com/dokyung253-lang/MiniProject3)** : 최근 진행 중인 프로젝트
+- **[marketplace](https://github.com/dokyung253-lang/marketplace)** : 상품 등록 및 관리 시스템
+- **[happyjava](https://github.com/dokyung253-lang/happyjava)** : Java 학습 기록 및 예제 코드
 
-![Snake animation](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=dokyung253-lang)
+### ✅ 추가 가이드
+1.  **Pinned Repositories 설정:** 마크다운에 적어두는 것 외에도, 깃허브 메인 페이지 상단의 **`Customize your pins`** 버튼을 눌러 실제 프로젝트들을 선택해 두어야 시각적으로 가장 예쁘게 나옵니다.
+2.  **Stats 제거 완료:** 요청하신 대로 복잡한 그래프 링크는 모두 삭제하여 텍스트 가독성을 높였습니다.
 
-이 코드를 `README.md`에 붙여넣으시면, 화려한 헤더 배너부터 트로피, 활동 스트릭(Streak), 그리고 귀여운 뱀 애니메이션까지 포함된 멋진 프로필이 완성됩니다! 추가로 수정하고 싶은 부분이 있다면 말씀해 주세요. 🍉
+작업하시다가 더 필요한 기능이나 디자인 수정 사항이 생기면 언제든 말씀해 주세요! 🍉
